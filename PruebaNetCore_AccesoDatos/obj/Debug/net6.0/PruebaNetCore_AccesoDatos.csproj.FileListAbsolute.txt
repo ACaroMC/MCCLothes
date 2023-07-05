@@ -1,0 +1,17 @@
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\bin\Debug\net6.0\PruebaNetCore_AccesoDatos.deps.json
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\bin\Debug\net6.0\PruebaNetCore_AccesoDatos.dll
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\bin\Debug\net6.0\PruebaNetCore_AccesoDatos.pdb
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\bin\Debug\net6.0\PruebaNetCore_Modelos.dll
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\bin\Debug\net6.0\PruebaNetCore_Modelos.pdb
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.AssemblyInfo.cs
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.csproj.CopyComplete
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.dll
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\refint\PruebaNetCore_AccesoDatos.dll
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\PruebaNetCore_AccesoDatos.pdb
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\obj\Debug\net6.0\ref\PruebaNetCore_AccesoDatos.dll
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\bin\Debug\net6.0\PruebaNetCore_Utilidades.dll
+C:\Users\Miriam\Desktop\PruebaNetCore\PruebaNetCore_AccesoDatos\bin\Debug\net6.0\PruebaNetCore_Utilidades.pdb
